@@ -2,7 +2,7 @@
 
 Wave your hand to aim, tap to shoot a web, and catch bugs crawling across a brick wall. A wrist-mounted **ESP32-C3** with a gyro acts as a Bluetooth air mouse, and the game runs in any browser.
 
-**▶ Play online:** `https://YOUR-USERNAME.github.io/YOUR-REPO/`
+**▶ Play online:** ` https://thufailahd654-ops.github.io/webshooterMPU6050/`
 *(The game also works with a normal mouse, trackpad or touchscreen, so anyone can try it.)*
 
 ## How it works
